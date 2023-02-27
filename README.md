@@ -18,6 +18,8 @@ Changes made to HTML
 - Added a new file called style.css
 - Added <link> tag to *.html files to link to style.css
 - Removed some inline styles from *.html files
+- Changed cover images to links to the original image stored in the
+  images folder
 
 License/Copyright
 =================
