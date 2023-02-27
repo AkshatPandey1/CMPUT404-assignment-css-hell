@@ -1,0 +1,99 @@
+/* Set global styles */
+body {
+    margin: 10%;
+    padding: 0;
+    font-family: Georgia, serif;
+    background-color: #F6F4E6;
+    color: #333333;
+}
+
+/* Set heading styles */
+h1, h2, h3, h4 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+/* Set paragraph styles */
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: justify;
+}
+
+p.right {
+    text-align: right;
+}
+
+p.scenedesc {
+    font-style: italic;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+p.letter {
+    margin: 1em 10%;
+}
+
+/* Set character name styles */
+span.charname {
+    font-size: 1.2em;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* Set image styles */
+div.fig {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Set link styles */
+a:link, a:visited {
+    color: #5D5D5D;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.pgheader h2 {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#pg-start-separator {
+    text-align: center;
+}
