@@ -12,6 +12,13 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Changes made to HTML
+====================
+- Removed <style> tags from *.html files
+- Added a new file called style.css
+- Added <link> tag to *.html files to link to style.css
+- Removed some inline styles from *.html files
+
 License/Copyright
 =================
 
